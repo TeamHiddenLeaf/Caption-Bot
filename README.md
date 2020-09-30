@@ -1,4 +1,7 @@
 # Caption-Bot
+
+![captionbot](https://user-images.githubusercontent.com/66754032/94639395-b1264e80-02a1-11eb-9bff-d62b16b10d66.jpg)
+
 Insipired by the Caption Bot implemented by Microsoft AI,  we have made an attempt to replicate the application using deep learning models. Our project uses both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order.
 
 Libraries/Parameters used in our project includes: Keras, Tensorflow, Word-embedding model (Glove), Images datasets from UIUC department of Computer Science (6000 trained images, 1000 test images)
